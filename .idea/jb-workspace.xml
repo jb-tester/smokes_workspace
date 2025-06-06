@@ -4,6 +4,18 @@
     <project name="spring-boot-smoke-test" path="$PROJECT_DIR$/../spring-boot-smoke-test">
       <vcs id="Git" remoteUrl="ssh://git@git.jetbrains.team/idea-qa/spring-boot-smoke-test.git" />
     </project>
+    <project name="kotlin-jpa-web" path="$PROJECT_DIR$/../kotlin-jpa-web">
+      <vcs id="Git" remoteUrl="https://github.com/jb-tester/kotlin-jpa-web.git" />
+    </project>
+    <project name="micronaut-smoke-test" path="$PROJECT_DIR$/../micronaut-smoke-test">
+      <vcs id="Git" remoteUrl="https://github.com/jb-tester/micronaut-smoke-test.git" />
+    </project>
+    <project name="spring-jpa-smoke" path="$PROJECT_DIR$/../spring-jpa-smoke">
+      <vcs id="Git" remoteUrl="https://github.com/jb-tester/spring-jpa-smoke.git" />
+    </project>
+    <project name="spring-aop-xml" path="$PROJECT_DIR$/../TTT/spring-aop-xml">
+      <vcs id="Git" remoteUrl="https://github.com/jb-tester/spring-aop-xml.git" />
+    </project>
     <option name="workspace" value="true" />
   </component>
 </project>
