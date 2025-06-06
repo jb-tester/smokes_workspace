@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WorkspaceSettings">
+    <project name="spring-boot-smoke-test" path="$PROJECT_DIR$/../spring-boot-smoke-test">
+      <vcs id="Git" remoteUrl="ssh://git@git.jetbrains.team/idea-qa/spring-boot-smoke-test.git" />
+    </project>
+    <option name="workspace" value="true" />
+  </component>
+</project>
